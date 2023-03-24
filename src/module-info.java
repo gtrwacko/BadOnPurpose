@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author escott
+ *
+ */
+module BadOnPurpose {}
